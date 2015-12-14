@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProgressTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_update">Update</string>
+    <string name="menu_delete">Delete</string>
+    <string name="hint_module_code">Eg. AA0001</string>
+    <string name="hint_assignment_name">Please enter assignment name</string>
+    <string name="hint_marks_proportion">1 &#8211; 100</string>
+    <string name="hint_when_due">YYYY/MM/DD</string>
+    <string name="hint_progress">0 &#8211; 100</string>
+    <string name="tv_text_module_code">Module code</string>
+    <string name="tv_text_assignment_name">Assignment name</string>
+    <string name="tv_text_marks_proportion">Marks proportion</string>
+    <string name="tv_text_when_due">When due</string>
+    <string name="tv_text_progress">Progress</string>
+
+</resources>
